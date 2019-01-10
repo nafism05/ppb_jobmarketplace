@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "588697329040",
+    "firebase_url": "https://jobmarketplace-8c112.firebaseio.com",
+    "project_id": "jobmarketplace-8c112",
+    "storage_bucket": "jobmarketplace-8c112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588697329040:android:6ef103147638a64b",
+        "android_client_info": {
+          "package_name": "com.example.nafism05.jobmarketplace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588697329040-os7h989fmla9up096j9i370b6buqb923.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nafism05.jobmarketplace",
+            "certificate_hash": "041221695d8d9fd7b94e62f8b556f60415cf8a6b"
+          }
+        },
+        {
+          "client_id": "588697329040-kp2qe0nl6ajkf5embihlg7i876cvnlic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyWXS26Xlnp8NgMrZAJDBIU3zfnbnTQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588697329040-kp2qe0nl6ajkf5embihlg7i876cvnlic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588697329040:android:70fb383361c52afe",
+        "android_client_info": {
+          "package_name": "com.example.nafism05.jobmarketplace_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588697329040-3o8fc4t93lsunjrp6jk5mr87nbjv6l9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nafism05.jobmarketplace_v2",
+            "certificate_hash": "041221695d8d9fd7b94e62f8b556f60415cf8a6b"
+          }
+        },
+        {
+          "client_id": "588697329040-kp2qe0nl6ajkf5embihlg7i876cvnlic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyWXS26Xlnp8NgMrZAJDBIU3zfnbnTQs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588697329040-kp2qe0nl6ajkf5embihlg7i876cvnlic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
